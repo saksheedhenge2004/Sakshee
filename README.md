@@ -2,7 +2,7 @@
 Hello ,This is my profile
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+a+Data+Science+Student;Python+%7C+Machine+Learning+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+a+Data+Science+internler;Python+%7C+Machine+Learning+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
